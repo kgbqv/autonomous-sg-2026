@@ -1,0 +1,1176 @@
+{
+  "recovery": 0.9,
+  "yield": 0.2,
+  "road_factor": 1.3,
+  "objective_usd": 918435601.9758631,
+  "status": 1,
+  "message": "Time limit reached",
+  "depots": [
+    {
+      "location_id": "KAL_SUP_01",
+      "size": "large",
+      "lat": -1.9635,
+      "lon": 110.1136
+    },
+    {
+      "location_id": "KAL_SUP_04",
+      "size": "large",
+      "lat": -1.6149,
+      "lon": 116.3117
+    },
+    {
+      "location_id": "KAL_SUP_06",
+      "size": "large",
+      "lat": -1.847,
+      "lon": 110.0258
+    },
+    {
+      "location_id": "KAL_SUP_08",
+      "size": "small",
+      "lat": 0.2911,
+      "lon": 110.6932
+    },
+    {
+      "location_id": "KAL_SUP_09",
+      "size": "small",
+      "lat": -2.264,
+      "lon": 111.7926
+    },
+    {
+      "location_id": "KAL_SUP_13",
+      "size": "large",
+      "lat": -0.3066,
+      "lon": 116.8705
+    },
+    {
+      "location_id": "KAL_SUP_14",
+      "size": "large",
+      "lat": -2.1397,
+      "lon": 110.2164
+    },
+    {
+      "location_id": "KAL_SUP_16",
+      "size": "large",
+      "lat": -2.5858,
+      "lon": 112.7929
+    },
+    {
+      "location_id": "KAL_SUP_19",
+      "size": "large",
+      "lat": -2.5394,
+      "lon": 112.8334
+    },
+    {
+      "location_id": "KAL_SUP_21",
+      "size": "small",
+      "lat": -2.1934,
+      "lon": 115.7592
+    },
+    {
+      "location_id": "KAL_SUP_24",
+      "size": "large",
+      "lat": -1.8548,
+      "lon": 116.1854
+    },
+    {
+      "location_id": "KAL_SUP_29",
+      "size": "large",
+      "lat": -1.6332,
+      "lon": 110.1275
+    },
+    {
+      "location_id": "KAL_SUP_30",
+      "size": "large",
+      "lat": -0.3435,
+      "lon": 117.0175
+    },
+    {
+      "location_id": "KAL_SUP_33",
+      "size": "small",
+      "lat": -2.6368,
+      "lon": 112.6695
+    },
+    {
+      "location_id": "KAL_SUP_34",
+      "size": "large",
+      "lat": 0.2514,
+      "lon": 110.2592
+    },
+    {
+      "location_id": "KAL_SUP_39",
+      "size": "large",
+      "lat": 0.2131,
+      "lon": 110.645
+    },
+    {
+      "location_id": "KAL_SUP_41",
+      "size": "large",
+      "lat": -1.7119,
+      "lon": 110.0077
+    },
+    {
+      "location_id": "KAL_SUP_44",
+      "size": "large",
+      "lat": -0.3668,
+      "lon": 116.8975
+    },
+    {
+      "location_id": "KAL_SUP_45",
+      "size": "small",
+      "lat": -2.0425,
+      "lon": 113.0427
+    },
+    {
+      "location_id": "KAL_SUP_46",
+      "size": "large",
+      "lat": 0.2625,
+      "lon": 110.7212
+    },
+    {
+      "location_id": "KAL_SUP_48",
+      "size": "large",
+      "lat": -1.6378,
+      "lon": 110.0902
+    },
+    {
+      "location_id": "KAL_SUP_49",
+      "size": "small",
+      "lat": -2.6715,
+      "lon": 111.589
+    },
+    {
+      "location_id": "KAL_SUP_53",
+      "size": "large",
+      "lat": 0.2589,
+      "lon": 110.3311
+    },
+    {
+      "location_id": "KAL_SUP_54",
+      "size": "large",
+      "lat": -0.712,
+      "lon": 116.982
+    },
+    {
+      "location_id": "KAL_SUP_59",
+      "size": "large",
+      "lat": -3.9454,
+      "lon": 114.676
+    },
+    {
+      "location_id": "KAL_SUP_60",
+      "size": "small",
+      "lat": -3.5655,
+      "lon": 114.8385
+    },
+    {
+      "location_id": "KAL_SUP_63",
+      "size": "small",
+      "lat": 0.4711,
+      "lon": 110.978
+    },
+    {
+      "location_id": "KAL_SUP_65",
+      "size": "large",
+      "lat": -2.5395,
+      "lon": 111.7025
+    },
+    {
+      "location_id": "KAL_SUP_67",
+      "size": "large",
+      "lat": -2.6718,
+      "lon": 111.704
+    },
+    {
+      "location_id": "KAL_SUP_70",
+      "size": "small",
+      "lat": 2.8936,
+      "lon": 117.2919
+    },
+    {
+      "location_id": "KAL_SUP_71",
+      "size": "large",
+      "lat": -2.4114,
+      "lon": 112.9518
+    },
+    {
+      "location_id": "KAL_SUP_72",
+      "size": "small",
+      "lat": -2.2989,
+      "lon": 113.0191
+    },
+    {
+      "location_id": "KAL_SUP_73",
+      "size": "small",
+      "lat": -0.2772,
+      "lon": 110.5956
+    },
+    {
+      "location_id": "KAL_SUP_76",
+      "size": "large",
+      "lat": -2.214,
+      "lon": 111.9176
+    },
+    {
+      "location_id": "KAL_SUP_77",
+      "size": "large",
+      "lat": -0.7849,
+      "lon": 117.0677
+    }
+  ],
+  "refineries": [
+    {
+      "location_id": "KAL_SUP_01",
+      "size": "large",
+      "lat": -1.9635,
+      "lon": 110.1136
+    },
+    {
+      "location_id": "KAL_SUP_04",
+      "size": "large",
+      "lat": -1.6149,
+      "lon": 116.3117
+    },
+    {
+      "location_id": "KAL_SUP_13",
+      "size": "large",
+      "lat": -0.3066,
+      "lon": 116.8705
+    },
+    {
+      "location_id": "KAL_SUP_16",
+      "size": "large",
+      "lat": -2.5858,
+      "lon": 112.7929
+    },
+    {
+      "location_id": "KAL_SUP_46",
+      "size": "large",
+      "lat": 0.2625,
+      "lon": 110.7212
+    },
+    {
+      "location_id": "KAL_SUP_48",
+      "size": "large",
+      "lat": -1.6378,
+      "lon": 110.0902
+    }
+  ],
+  "routes": {
+    "biomass_to_depot": [
+      {
+        "from": "KAL_SUP_01",
+        "to": "KAL_SUP_01",
+        "flow_kt": 81.108,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_02",
+        "to": "KAL_SUP_09",
+        "flow_kt": 37.35000000000006,
+        "distance_km": 38.062589586547645
+      },
+      {
+        "from": "KAL_SUP_02",
+        "to": "KAL_SUP_14",
+        "flow_kt": 13.136999999999993,
+        "distance_km": 197.0443192603146
+      },
+      {
+        "from": "KAL_SUP_02",
+        "to": "KAL_SUP_29",
+        "flow_kt": 36.452999999999946,
+        "distance_km": 220.817136654037
+      },
+      {
+        "from": "KAL_SUP_03",
+        "to": "KAL_SUP_01",
+        "flow_kt": 86.796,
+        "distance_km": 26.1686121569141
+      },
+      {
+        "from": "KAL_SUP_04",
+        "to": "KAL_SUP_04",
+        "flow_kt": 89.298,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_05",
+        "to": "KAL_SUP_71",
+        "flow_kt": 81.414,
+        "distance_km": 62.44565895257059
+      },
+      {
+        "from": "KAL_SUP_06",
+        "to": "KAL_SUP_06",
+        "flow_kt": 79.119,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_07",
+        "to": "KAL_SUP_14",
+        "flow_kt": 80.15400000000001,
+        "distance_km": 24.723318537051842
+      },
+      {
+        "from": "KAL_SUP_08",
+        "to": "KAL_SUP_08",
+        "flow_kt": 84.60000000000001,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_09",
+        "to": "KAL_SUP_09",
+        "flow_kt": 23.697,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_10",
+        "to": "KAL_SUP_44",
+        "flow_kt": 89.55900000000001,
+        "distance_km": 44.05341773892078
+      },
+      {
+        "from": "KAL_SUP_11",
+        "to": "KAL_SUP_30",
+        "flow_kt": 82.944,
+        "distance_km": 62.96595911733019
+      },
+      {
+        "from": "KAL_SUP_12",
+        "to": "KAL_SUP_16",
+        "flow_kt": 51.983999999999995,
+        "distance_km": 27.786265637201044
+      },
+      {
+        "from": "KAL_SUP_12",
+        "to": "KAL_SUP_19",
+        "flow_kt": 32.43600000000001,
+        "distance_km": 32.54234602834097
+      },
+      {
+        "from": "KAL_SUP_13",
+        "to": "KAL_SUP_13",
+        "flow_kt": 83.529,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_14",
+        "to": "KAL_SUP_14",
+        "flow_kt": 26.406,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_15",
+        "to": "KAL_SUP_29",
+        "flow_kt": 79.488,
+        "distance_km": 40.38530948840006
+      },
+      {
+        "from": "KAL_SUP_16",
+        "to": "KAL_SUP_16",
+        "flow_kt": 88.425,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_17",
+        "to": "KAL_SUP_13",
+        "flow_kt": 29.52299999999993,
+        "distance_km": 13.758950529973562
+      },
+      {
+        "from": "KAL_SUP_17",
+        "to": "KAL_SUP_44",
+        "flow_kt": 49.92000000000001,
+        "distance_km": 13.5636193040624
+      },
+      {
+        "from": "KAL_SUP_18",
+        "to": "KAL_SUP_13",
+        "flow_kt": 83.601,
+        "distance_km": 425.014175908865
+      },
+      {
+        "from": "KAL_SUP_19",
+        "to": "KAL_SUP_19",
+        "flow_kt": 89.73899999999999,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_20",
+        "to": "KAL_SUP_33",
+        "flow_kt": 30.69,
+        "distance_km": 110.09389997693891
+      },
+      {
+        "from": "KAL_SUP_21",
+        "to": "KAL_SUP_21",
+        "flow_kt": 81.58500000000001,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_22",
+        "to": "KAL_SUP_29",
+        "flow_kt": 14.580000000000027,
+        "distance_km": 77.69548972980273
+      },
+      {
+        "from": "KAL_SUP_22",
+        "to": "KAL_SUP_48",
+        "flow_kt": 65.51999999999998,
+        "distance_km": 72.59068942132191
+      },
+      {
+        "from": "KAL_SUP_23",
+        "to": "KAL_SUP_39",
+        "flow_kt": 83.268,
+        "distance_km": 54.816565233622725
+      },
+      {
+        "from": "KAL_SUP_24",
+        "to": "KAL_SUP_24",
+        "flow_kt": 86.868,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_25",
+        "to": "KAL_SUP_08",
+        "flow_kt": 39.903000000000034,
+        "distance_km": 18.74515446823414
+      },
+      {
+        "from": "KAL_SUP_25",
+        "to": "KAL_SUP_46",
+        "flow_kt": 39.29699999999997,
+        "distance_km": 16.91536359283698
+      },
+      {
+        "from": "KAL_SUP_26",
+        "to": "KAL_SUP_24",
+        "flow_kt": 84.474,
+        "distance_km": 373.71866760745723
+      },
+      {
+        "from": "KAL_SUP_27",
+        "to": "KAL_SUP_09",
+        "flow_kt": 28.02199999999825,
+        "distance_km": 41.2585188323515
+      },
+      {
+        "from": "KAL_SUP_27",
+        "to": "KAL_SUP_19",
+        "flow_kt": 14.875000000000014,
+        "distance_km": 162.2864217653815
+      },
+      {
+        "from": "KAL_SUP_28",
+        "to": "KAL_SUP_19",
+        "flow_kt": 79.74,
+        "distance_km": 130.32668195798826
+      },
+      {
+        "from": "KAL_SUP_29",
+        "to": "KAL_SUP_29",
+        "flow_kt": 79.569,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_30",
+        "to": "KAL_SUP_30",
+        "flow_kt": 89.8289999999999,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_31",
+        "to": "KAL_SUP_41",
+        "flow_kt": 86.98500000000001,
+        "distance_km": 53.86143675481333
+      },
+      {
+        "from": "KAL_SUP_32",
+        "to": "KAL_SUP_41",
+        "flow_kt": 82.83600000000001,
+        "distance_km": 32.016123301782066
+      },
+      {
+        "from": "KAL_SUP_33",
+        "to": "KAL_SUP_33",
+        "flow_kt": 87.021,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_34",
+        "to": "KAL_SUP_34",
+        "flow_kt": 15.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_34",
+        "to": "KAL_SUP_53",
+        "flow_kt": 64.05600000000001,
+        "distance_km": 10.449679011299304
+      },
+      {
+        "from": "KAL_SUP_35",
+        "to": "KAL_SUP_29",
+        "flow_kt": 89.91000000000001,
+        "distance_km": 11.148627620974263
+      },
+      {
+        "from": "KAL_SUP_36",
+        "to": "KAL_SUP_16",
+        "flow_kt": 82.125,
+        "distance_km": 27.435361355526215
+      },
+      {
+        "from": "KAL_SUP_37",
+        "to": "KAL_SUP_06",
+        "flow_kt": 87.471,
+        "distance_km": 30.74083035560969
+      },
+      {
+        "from": "KAL_SUP_38",
+        "to": "KAL_SUP_30",
+        "flow_kt": 21.258000000000003,
+        "distance_km": 2.0270489361439252
+      },
+      {
+        "from": "KAL_SUP_39",
+        "to": "KAL_SUP_39",
+        "flow_kt": 86.18400000000003,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_40",
+        "to": "KAL_SUP_39",
+        "flow_kt": 20.556,
+        "distance_km": 70.36417273050435
+      },
+      {
+        "from": "KAL_SUP_41",
+        "to": "KAL_SUP_41",
+        "flow_kt": 81.972,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_42",
+        "to": "KAL_SUP_08",
+        "flow_kt": 25.49699999999997,
+        "distance_km": 57.644537409312164
+      },
+      {
+        "from": "KAL_SUP_42",
+        "to": "KAL_SUP_39",
+        "flow_kt": 54.38700000000003,
+        "distance_km": 47.38959804047645
+      },
+      {
+        "from": "KAL_SUP_43",
+        "to": "KAL_SUP_41",
+        "flow_kt": 11.183999999999983,
+        "distance_km": 35.165727763048935
+      },
+      {
+        "from": "KAL_SUP_43",
+        "to": "KAL_SUP_48",
+        "flow_kt": 67.98000000000002,
+        "distance_km": 46.9734260608931
+      },
+      {
+        "from": "KAL_SUP_44",
+        "to": "KAL_SUP_44",
+        "flow_kt": 82.683,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_45",
+        "to": "KAL_SUP_19",
+        "flow_kt": 3.469999999999999,
+        "distance_km": 77.93102163391964
+      },
+      {
+        "from": "KAL_SUP_45",
+        "to": "KAL_SUP_45",
+        "flow_kt": 7.5,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_45",
+        "to": "KAL_SUP_71",
+        "flow_kt": 74.125,
+        "distance_km": 54.91840773258825
+      },
+      {
+        "from": "KAL_SUP_46",
+        "to": "KAL_SUP_46",
+        "flow_kt": 86.57100000000003,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_47",
+        "to": "KAL_SUP_19",
+        "flow_kt": 79.74,
+        "distance_km": 37.75740301989589
+      },
+      {
+        "from": "KAL_SUP_48",
+        "to": "KAL_SUP_48",
+        "flow_kt": 80.055,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_49",
+        "to": "KAL_SUP_49",
+        "flow_kt": 84.68100000000001,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_50",
+        "to": "KAL_SUP_01",
+        "flow_kt": 48.386999999999986,
+        "distance_km": 40.39296061066335
+      },
+      {
+        "from": "KAL_SUP_50",
+        "to": "KAL_SUP_14",
+        "flow_kt": 32.640000000000015,
+        "distance_km": 43.38424473153078
+      },
+      {
+        "from": "KAL_SUP_51",
+        "to": "KAL_SUP_01",
+        "flow_kt": 83.709,
+        "distance_km": 6.355961821425628
+      },
+      {
+        "from": "KAL_SUP_52",
+        "to": "KAL_SUP_04",
+        "flow_kt": 81.51299999999999,
+        "distance_km": 62.464573313762465
+      },
+      {
+        "from": "KAL_SUP_53",
+        "to": "KAL_SUP_53",
+        "flow_kt": 82.53,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_54",
+        "to": "KAL_SUP_44",
+        "flow_kt": 10.649999999999896,
+        "distance_km": 51.372953138504265
+      },
+      {
+        "from": "KAL_SUP_54",
+        "to": "KAL_SUP_54",
+        "flow_kt": 72.89700000000009,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_55",
+        "to": "KAL_SUP_13",
+        "flow_kt": 80.784,
+        "distance_km": 51.92876403875864
+      },
+      {
+        "from": "KAL_SUP_56",
+        "to": "KAL_SUP_04",
+        "flow_kt": 48.405,
+        "distance_km": 119.19085565421695
+      },
+      {
+        "from": "KAL_SUP_56",
+        "to": "KAL_SUP_24",
+        "flow_kt": 32.117999999999995,
+        "distance_km": 81.59915124503644
+      },
+      {
+        "from": "KAL_SUP_57",
+        "to": "KAL_SUP_13",
+        "flow_kt": 22.563000000000002,
+        "distance_km": 32.35678033713723
+      },
+      {
+        "from": "KAL_SUP_58",
+        "to": "KAL_SUP_06",
+        "flow_kt": 50.25,
+        "distance_km": 20.795869061312874
+      },
+      {
+        "from": "KAL_SUP_58",
+        "to": "KAL_SUP_41",
+        "flow_kt": 37.022999999999996,
+        "distance_km": 28.377077718749543
+      },
+      {
+        "from": "KAL_SUP_59",
+        "to": "KAL_SUP_24",
+        "flow_kt": 63.94800000000001,
+        "distance_km": 372.5668845025191
+      },
+      {
+        "from": "KAL_SUP_59",
+        "to": "KAL_SUP_59",
+        "flow_kt": 15.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_60",
+        "to": "KAL_SUP_21",
+        "flow_kt": 43.724999999999994,
+        "distance_km": 238.76122497784638
+      },
+      {
+        "from": "KAL_SUP_60",
+        "to": "KAL_SUP_24",
+        "flow_kt": 32.592,
+        "distance_km": 314.59691939428524
+      },
+      {
+        "from": "KAL_SUP_60",
+        "to": "KAL_SUP_60",
+        "flow_kt": 7.5,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_61",
+        "to": "KAL_SUP_04",
+        "flow_kt": 80.784,
+        "distance_km": 60.056802278184925
+      },
+      {
+        "from": "KAL_SUP_62",
+        "to": "KAL_SUP_48",
+        "flow_kt": 86.445,
+        "distance_km": 51.268593792160495
+      },
+      {
+        "from": "KAL_SUP_63",
+        "to": "KAL_SUP_63",
+        "flow_kt": 83.45700000000001,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_64",
+        "to": "KAL_SUP_16",
+        "flow_kt": 48.17100000000001,
+        "distance_km": 111.11038359746127
+      },
+      {
+        "from": "KAL_SUP_64",
+        "to": "KAL_SUP_33",
+        "flow_kt": 32.289,
+        "distance_km": 92.72068091170127
+      },
+      {
+        "from": "KAL_SUP_65",
+        "to": "KAL_SUP_65",
+        "flow_kt": 79.28999999999999,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_66",
+        "to": "KAL_SUP_30",
+        "flow_kt": 88.776,
+        "distance_km": 15.672627617378557
+      },
+      {
+        "from": "KAL_SUP_67",
+        "to": "KAL_SUP_67",
+        "flow_kt": 80.37,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_68",
+        "to": "KAL_SUP_14",
+        "flow_kt": 32.346,
+        "distance_km": 179.0111352258032
+      },
+      {
+        "from": "KAL_SUP_69",
+        "to": "KAL_SUP_14",
+        "flow_kt": 27.891,
+        "distance_km": 30.948848148653973
+      },
+      {
+        "from": "KAL_SUP_70",
+        "to": "KAL_SUP_70",
+        "flow_kt": 7.5,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_71",
+        "to": "KAL_SUP_71",
+        "flow_kt": 84.483,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_72",
+        "to": "KAL_SUP_71",
+        "flow_kt": 59.97800000000001,
+        "distance_km": 18.945812455438023
+      },
+      {
+        "from": "KAL_SUP_72",
+        "to": "KAL_SUP_72",
+        "flow_kt": 29.5,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_73",
+        "to": "KAL_SUP_39",
+        "flow_kt": 55.60499999999995,
+        "distance_km": 71.23336495263214
+      },
+      {
+        "from": "KAL_SUP_73",
+        "to": "KAL_SUP_73",
+        "flow_kt": 33.52200000000006,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_74",
+        "to": "KAL_SUP_46",
+        "flow_kt": 89.649,
+        "distance_km": 40.40781086117111
+      },
+      {
+        "from": "KAL_SUP_75",
+        "to": "KAL_SUP_46",
+        "flow_kt": 84.483,
+        "distance_km": 36.477891153185396
+      },
+      {
+        "from": "KAL_SUP_76",
+        "to": "KAL_SUP_76",
+        "flow_kt": 25.011,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_77",
+        "to": "KAL_SUP_44",
+        "flow_kt": 67.188,
+        "distance_km": 65.253109737514
+      },
+      {
+        "from": "KAL_SUP_77",
+        "to": "KAL_SUP_77",
+        "flow_kt": 15.000000000000005,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_78",
+        "to": "KAL_SUP_14",
+        "flow_kt": 87.426,
+        "distance_km": 185.5560355260696
+      },
+      {
+        "from": "KAL_SUP_79",
+        "to": "KAL_SUP_16",
+        "flow_kt": 29.294999999999998,
+        "distance_km": 110.92295351683985
+      },
+      {
+        "from": "KAL_SUP_80",
+        "to": "KAL_SUP_06",
+        "flow_kt": 83.16000000000001,
+        "distance_km": 58.31257632390597
+      }
+    ],
+    "depot_to_refinery": [
+      {
+        "from": "KAL_SUP_01",
+        "to": "KAL_SUP_01",
+        "flow_kt": 300.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_04",
+        "to": "KAL_SUP_04",
+        "flow_kt": 300.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_06",
+        "to": "KAL_SUP_01",
+        "flow_kt": 128.5790000000017,
+        "distance_km": 21.08328448425107
+      },
+      {
+        "from": "KAL_SUP_06",
+        "to": "KAL_SUP_48",
+        "flow_kt": 171.4209999999983,
+        "distance_km": 31.639752344043515
+      },
+      {
+        "from": "KAL_SUP_08",
+        "to": "KAL_SUP_46",
+        "flow_kt": 150.00000000000003,
+        "distance_km": 5.785643588060153
+      },
+      {
+        "from": "KAL_SUP_09",
+        "to": "KAL_SUP_01",
+        "flow_kt": 89.06899999999831,
+        "distance_km": 246.39887838992854
+      },
+      {
+        "from": "KAL_SUP_13",
+        "to": "KAL_SUP_13",
+        "flow_kt": 300.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_14",
+        "to": "KAL_SUP_01",
+        "flow_kt": 300.0,
+        "distance_km": 29.48348316072346
+      },
+      {
+        "from": "KAL_SUP_16",
+        "to": "KAL_SUP_16",
+        "flow_kt": 300.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_19",
+        "to": "KAL_SUP_16",
+        "flow_kt": 300.0,
+        "distance_km": 8.899056690613536
+      },
+      {
+        "from": "KAL_SUP_21",
+        "to": "KAL_SUP_04",
+        "flow_kt": 125.31,
+        "distance_km": 115.60467042539906
+      },
+      {
+        "from": "KAL_SUP_24",
+        "to": "KAL_SUP_04",
+        "flow_kt": 300.0,
+        "distance_km": 39.18678739964239
+      },
+      {
+        "from": "KAL_SUP_29",
+        "to": "KAL_SUP_48",
+        "flow_kt": 300.0,
+        "distance_km": 5.430509288363392
+      },
+      {
+        "from": "KAL_SUP_30",
+        "to": "KAL_SUP_13",
+        "flow_kt": 282.8070000000002,
+        "distance_km": 21.908266107291606
+      },
+      {
+        "from": "KAL_SUP_33",
+        "to": "KAL_SUP_16",
+        "flow_kt": 150.0,
+        "distance_km": 19.284177768293237
+      },
+      {
+        "from": "KAL_SUP_34",
+        "to": "KAL_SUP_46",
+        "flow_kt": 15.0,
+        "distance_km": 66.80227402885963
+      },
+      {
+        "from": "KAL_SUP_39",
+        "to": "KAL_SUP_46",
+        "flow_kt": 300.0,
+        "distance_km": 13.127088494446943
+      },
+      {
+        "from": "KAL_SUP_41",
+        "to": "KAL_SUP_48",
+        "flow_kt": 300.0,
+        "distance_km": 16.02604138345788
+      },
+      {
+        "from": "KAL_SUP_44",
+        "to": "KAL_SUP_13",
+        "flow_kt": 300.0,
+        "distance_km": 9.53725500297191
+      },
+      {
+        "from": "KAL_SUP_45",
+        "to": "KAL_SUP_16",
+        "flow_kt": 7.5,
+        "distance_km": 86.42706772519816
+      },
+      {
+        "from": "KAL_SUP_46",
+        "to": "KAL_SUP_46",
+        "flow_kt": 300.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_48",
+        "to": "KAL_SUP_48",
+        "flow_kt": 300.0,
+        "distance_km": 0.0
+      },
+      {
+        "from": "KAL_SUP_49",
+        "to": "KAL_SUP_01",
+        "flow_kt": 84.68100000000001,
+        "distance_km": 236.40036687444814
+      },
+      {
+        "from": "KAL_SUP_53",
+        "to": "KAL_SUP_46",
+        "flow_kt": 146.586,
+        "distance_km": 56.39210057844696
+      },
+      {
+        "from": "KAL_SUP_54",
+        "to": "KAL_SUP_13",
+        "flow_kt": 72.89700000000009,
+        "distance_km": 60.777852581775086
+      },
+      {
+        "from": "KAL_SUP_59",
+        "to": "KAL_SUP_04",
+        "flow_kt": 15.0,
+        "distance_km": 411.40821429132984
+      },
+      {
+        "from": "KAL_SUP_60",
+        "to": "KAL_SUP_04",
+        "flow_kt": 7.5,
+        "distance_km": 353.2110122868004
+      },
+      {
+        "from": "KAL_SUP_63",
+        "to": "KAL_SUP_46",
+        "flow_kt": 83.45700000000001,
+        "distance_km": 47.82455497302472
+      },
+      {
+        "from": "KAL_SUP_65",
+        "to": "KAL_SUP_01",
+        "flow_kt": 79.28999999999999,
+        "distance_km": 244.139582250718
+      },
+      {
+        "from": "KAL_SUP_67",
+        "to": "KAL_SUP_01",
+        "flow_kt": 80.37,
+        "distance_km": 251.4935144950677
+      },
+      {
+        "from": "KAL_SUP_70",
+        "to": "KAL_SUP_13",
+        "flow_kt": 7.5,
+        "distance_km": 466.5901166342492
+      },
+      {
+        "from": "KAL_SUP_71",
+        "to": "KAL_SUP_16",
+        "flow_kt": 300.0,
+        "distance_km": 34.09026688119056
+      },
+      {
+        "from": "KAL_SUP_72",
+        "to": "KAL_SUP_16",
+        "flow_kt": 29.5,
+        "distance_km": 52.79367129244103
+      },
+      {
+        "from": "KAL_SUP_73",
+        "to": "KAL_SUP_46",
+        "flow_kt": 33.52200000000006,
+        "distance_km": 80.1002402343409
+      },
+      {
+        "from": "KAL_SUP_76",
+        "to": "KAL_SUP_01",
+        "flow_kt": 25.011,
+        "distance_km": 263.1045687093258
+      },
+      {
+        "from": "KAL_SUP_77",
+        "to": "KAL_SUP_13",
+        "flow_kt": 14.999999999999922,
+        "distance_km": 74.78525621431902
+      }
+    ],
+    "refinery_to_airport": [
+      {
+        "from": "KAL_SUP_46",
+        "to": "PNK",
+        "flow_kt": 85.71580000000033,
+        "distance_km": 199.55448389804553,
+        "mode": "truck"
+      },
+      {
+        "from": "KAL_SUP_48",
+        "to": "PNK",
+        "flow_kt": 214.28419999999966,
+        "distance_km": 236.73963977637715,
+        "mode": "truck"
+      },
+      {
+        "from": "KAL_SUP_01",
+        "to": "PKN",
+        "flow_kt": 217.40000000000003,
+        "distance_km": 249.4443890352019,
+        "mode": "truck"
+      },
+      {
+        "from": "KAL_SUP_16",
+        "to": "PKN",
+        "flow_kt": 82.59999999999997,
+        "distance_km": 162.6317475545039,
+        "mode": "truck"
+      },
+      {
+        "from": "KAL_SUP_04",
+        "to": "BPN",
+        "flow_kt": 149.562,
+        "distance_km": 97.93498251407914,
+        "mode": "truck"
+      },
+      {
+        "from": "KAL_SUP_13",
+        "to": "BPN",
+        "flow_kt": 15.63799999999992,
+        "distance_km": 139.0541557141079,
+        "mode": "truck"
+      },
+      {
+        "from": "KAL_SUP_16",
+        "to": "BPN",
+        "flow_kt": 134.80000000000004,
+        "distance_km": 622.3374816983162,
+        "mode": "truck"
+      },
+      {
+        "from": "KAL_SUP_13",
+        "to": "TRK",
+        "flow_kt": 180.00280000000015,
+        "distance_km": 534.8211983193374,
+        "mode": "barge"
+      },
+      {
+        "from": "KAL_SUP_46",
+        "to": "TRK",
+        "flow_kt": 119.99719999999974,
+        "distance_km": 1083.9608046676253,
+        "mode": "barge"
+      }
+    ]
+  },
+  "saf_delivered": {
+    "PNK": 300.0,
+    "PKN": 300.0,
+    "BPN": 300.0,
+    "TRK": 299.9999999999999
+  },
+  "biomass_processed_kt": 5999.999999999997,
+  "candidate_mode": "0.05-degree local inland grid around 90% baseline facilities",
+  "candidate_count": 339,
+  "mip_gap": 0.09065678475925347,
+  "mip_dual_bound": 835173183.2923019,
+  "baseline_objective_usd": 918435601.975863,
+  "savings_usd": -1.1920928955078125e-07
+}

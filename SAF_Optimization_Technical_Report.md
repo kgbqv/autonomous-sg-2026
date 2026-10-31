@@ -1,6 +1,7 @@
 ---
 header-includes:
   - \usepackage{graphicx}
+  - \usepackage{pdflscape}
 ---
 
 # SAF Supply-Chain Optimization in Kalimantan
@@ -442,26 +443,11 @@ The network is more concentrated at the refinery layer than at the depot layer. 
 
 The following maps show the selected facilities and great-circle route arcs for every feasible recovery scenario. Green squares are depots, red triangles are refineries, purple circles are airports, grey points are inland biomass sites, and red crosses are offshore source coordinates retained only as feedstock records. The Kalimantan boundary is used for geographic alignment, not as a protected-area exclusion layer [5,6].
 
-\begin{center}
-\includegraphics[width=6.2in]{outputs/network_recovery_09.png}
-
-\textbf{Figure 1.} Network flow at 90\% recovery.
-\end{center}
-
 \newpage
-
 \begin{center}
-\includegraphics[width=6.2in]{outputs/network_recovery_095.png}
+\includegraphics[width=4.0in]{outputs/network_recovery_comparison_vertical.png}
 
-\textbf{Figure 2.} Network flow at 95\% recovery.
-\end{center}
-
-\newpage
-
-\begin{center}
-\includegraphics[width=6.2in]{outputs/network_recovery_10.png}
-
-\textbf{Figure 3.} Network flow at 100\% recovery.
+\textbf{Figure 1.} Network flow comparison at 90\%, 95\%, and 100\% recovery.
 \end{center}
 
 ## 7. Free-siting benchmark
